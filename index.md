@@ -1,5 +1,6 @@
-## HGUtilities - Documentation
+## Documentation
 
+Hideout Games Utilities
 Unreal Engine Utility Plugin
 
 View the [repository](https://github.com/PrestigeBR/HGUtilities/edit/gh-pages/index.md).
