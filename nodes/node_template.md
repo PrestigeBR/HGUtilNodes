@@ -15,8 +15,8 @@ Node description
 
 ### Inputs
 
-| <a style="color:red;">◉ </a> Bool          | Boolean input explained
+| Bool | Boolean input explained
 
 ### Outputs
 
-| <a style="color:blue;">◉ </a> Object       | Object input explained
+| Object | Object input explained
