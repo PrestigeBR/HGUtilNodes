@@ -16,7 +16,7 @@ View the [documentaion](https://prestigebr.github.io/HGUtilities/).
 
 Free for personal use only. Under [CC BY-NC-SA 4.0](https://github.com/PrestigeBR/HGUtilities/edit/gh-pages/LICENSE.md).
 
-[LicenseImage](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
+<img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="License"/>
 
 Want to use the project for commercial purposes? The plugin is available for purchase here [UE Marketplace](https://github.com/PrestigeBR/HGUtilities/edit/gh-pages/LICENSE.md).
 
