@@ -1,7 +1,7 @@
 ---
 title: Asset Manager
 parent: Editor
-has_children: true
+grand_parent: Documentation
 nav_order: 1
 ---
 
