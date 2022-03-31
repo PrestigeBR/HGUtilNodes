@@ -8,6 +8,8 @@ nav_order: 1
 
 Hideout Games Utilities - Unreal Engine Plugin
 
+Note: Docs might be slightly incomplete or outdated.
+
 View the [repository](https://github.com/PrestigeBR/HGUtilities/edit/gh-pages/index.md).
 
 ### Support
