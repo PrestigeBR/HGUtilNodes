@@ -5,6 +5,6 @@ has_children: true
 nav_order: 1
 ---
 
-# Child of Nodes
+# Blueprint Nodes
 
-I am a child page.
+HGUtilities blueprint nodes
