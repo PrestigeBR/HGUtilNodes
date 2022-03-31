@@ -5,4 +5,4 @@ has_children: true
 nav_order: 1
 ---
 
-# Asset Manager
+# Blueprint Asset Manager
