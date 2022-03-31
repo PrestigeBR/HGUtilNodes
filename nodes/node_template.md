@@ -20,5 +20,5 @@ Node description
 
 ### Outputs
 
-| ▷ Exec | Out
+| ▹ Exec | Out
 | ● Object | Object input explained
