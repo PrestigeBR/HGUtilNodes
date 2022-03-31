@@ -1,7 +1,7 @@
 ---
 title: Node Template
 parent: Nodes
-has_children: false
+grand_parent: Documentation
 ---
 
 ## Node Title
