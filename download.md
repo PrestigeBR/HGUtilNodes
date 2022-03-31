@@ -4,7 +4,7 @@ has_children: false
 nav_order: 1
 ---
 
-## Downloads
+### Downloads
 
 [Github Release](https://github.com/PrestigeBR/HGUtilities/releases)
 
