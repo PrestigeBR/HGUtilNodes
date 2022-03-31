@@ -14,24 +14,13 @@ Node description
 
 ### Inputs
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+| ok           | good swedish fish
+| out of stock | good and plenty
+| ok           | good `oreos`
+| ok           | good `zoute` drop
 
 ### Outputs
 
-| head1        | head two          |
-|:-------------|:------------------|
 | ok           | good swedish fish |
 | out of stock | good and plenty   |
 | ok           | good `oreos`      |
