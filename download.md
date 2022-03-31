@@ -4,6 +4,8 @@ has_children: false
 nav_order: 1
 ---
 
-## Download
+## Downloads
 
-[Latest release](https://github.com/PrestigeBR/HGUtilities/).
+[Github Release](https://github.com/PrestigeBR/HGUtilities/).
+
+[UE Marketplace - Coming soon](https://github.com/PrestigeBR/HGUtilities/).
