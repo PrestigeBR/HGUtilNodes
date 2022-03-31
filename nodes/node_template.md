@@ -15,10 +15,10 @@ Node description
 
 ### Inputs
 
-| ▷ Exec | In
+| ▸ Exec | In
 | ● Bool | Boolean input explained
 
 ### Outputs
 
-| ▹ Exec | Out
+| ▸ Exec | Out
 | ● Object | Object input explained
