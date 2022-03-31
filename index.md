@@ -16,7 +16,8 @@ View the [repository](https://github.com/PrestigeBR/HGUtilities).
 
 Free for personal use only. Under [CC BY-NC-SA 4.0](https://github.com/PrestigeBR/HGUtilities/LICENSE.md).
 
-Want to use the project for commercial purposes? The plugin is available for purchase here [UE Marketplace](https://github.com/PrestigeBR/HGUtilities/LICENSE.md).
+Want to use the project for commercial purposes?
+The plugin is available for purchase here [UE Marketplace](https://github.com/PrestigeBR/HGUtilities/LICENSE.md).
 
 ### Support
 
