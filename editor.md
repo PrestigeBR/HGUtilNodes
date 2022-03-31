@@ -5,6 +5,6 @@ has_children: true
 nav_order: 2
 ---
 
-# Child of Nodes
+# Editor tools
 
-I am a child page.
+HGUtilties editor tools
