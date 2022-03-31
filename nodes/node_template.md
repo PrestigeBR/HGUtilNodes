@@ -11,18 +11,12 @@ nav_order: 1
 Node description
 ```
 
-![Image](https://cdn.discordapp.com/attachments/875515865540472842/959110032589467778/unknown.png)
+<img src="https://cdn.discordapp.com/attachments/875515865540472842/959110032589467778/unknown.png" alt="Node" width="448"/>
 
 ### Inputs
 
-| ok           | good swedish fish
-| out of stock | good and plenty
-| ok           | good `oreos`
-| ok           | good `zoute` drop
+| <p style="color:red;">◉ </> Bool          | Boolean input explained
 
 ### Outputs
 
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
+| <p style="color:blue;">◉ </> Object       | Object input explained
