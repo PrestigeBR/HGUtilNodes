@@ -14,7 +14,7 @@ View the [documentaion](https://prestigebr.github.io/HGUtilities/).
 
 ### License
 
-Free for personal use only. Under [CC BY-NC-SA 4.0](https://github.com/PrestigeBR/HGUtilities/edit/gh-pages/LICENSE.md).
+Free for personal use only. Under [CC BY-NC-SA 4.0](https://github.com/PrestigeBR/HGUtilities/LICENSE.md).
 
 <img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" alt="License"/>
 
