@@ -4,32 +4,35 @@ parent: Nodes
 has_children: false
 ---
 
-## Documentation
+## Node Title
 
-Hideout Games Utilities
-Unreal Engine Utility Plugin
-
-View the [repository](https://github.com/PrestigeBR/HGUtilities/edit/gh-pages/index.md).
-
-### Support
-
-Having trouble? Check out our [Discord Server](http://hideout.no).
-
-### Markdown
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Node description
 ```
+
+![Image](https://cdn.discordapp.com/attachments/875515865540472842/959110032589467778/unknown.png)
+
+### Inputs
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Outputs
+
+| head1        | head two          |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
