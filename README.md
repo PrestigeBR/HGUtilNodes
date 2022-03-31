@@ -4,7 +4,7 @@ Hideout Games Utilities - Unreal Engine Plugin
 
 Note: Docs might be slightly incomplete or outdated.
 
-View the [documentaion](https://prestigebr.github.io/HGUtilities/).
+View the [documentaion](https://utils.hideout.no/).
 
 ### Downloads
 
