@@ -1,6 +1,6 @@
 ---
-title: Extra Nodes
-parent: Nodes
+title: Nodes
+parent: Documentation
 has_children: true
 nav_order: 1
 ---
