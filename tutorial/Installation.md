@@ -5,6 +5,6 @@ has_children: true
 nav_order: 1
 ---
 
-# Installation
+## Installation
 
 TODO: Put installation tutorial here
