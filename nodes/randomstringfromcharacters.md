@@ -8,7 +8,7 @@ nav_order: 1
 ## Random String from Characters
 
 ```markdown
-Generate a random string from a pre-defined set of characters.
+Generate a random string from a set of pre-defined characters.
 ```
 
 <img src="https://cdn.discordapp.com/attachments/959186212046909551/959187181577064509/unknown.png" alt="Node" width="448"/>
