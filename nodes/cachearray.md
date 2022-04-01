@@ -8,7 +8,7 @@ nav_order: 1
 ## Cache Array
 
 ```markdown
-Cache a wildcard array. Used to save variables from pure nodes.
+Cache a wildcard array.
 ```
 
 <img src="https://cdn.discordapp.com/attachments/959186212046909551/959186318804545556/unknown.png" alt="Node" width="448"/>
