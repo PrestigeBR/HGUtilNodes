@@ -7,9 +7,7 @@ nav_order: 1
 
 ## Cache Single
 
-```markdown
 Cache a single wildcard value.
-```
 
 <img src="https://cdn.discordapp.com/attachments/959186212046909551/959186247245512744/unknown.png" alt="Node" width="448"/>
 
