@@ -7,9 +7,7 @@ nav_order: 1
 
 ## Random String
 
-```markdown
 Generate a random string.
-```
 
 <img src="https://cdn.discordapp.com/attachments/959186212046909551/959187106335457280/unknown.png" alt="Node" width="448"/>
 
