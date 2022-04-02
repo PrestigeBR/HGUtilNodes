@@ -1,8 +1,8 @@
 ---
 title: Asset Manager
 parent: Editor
-grand_parent: Documentation
+has_children: true
 nav_order: 1
 ---
 
-# Blueprint Asset Manager
+## Blueprint Asset Manager
