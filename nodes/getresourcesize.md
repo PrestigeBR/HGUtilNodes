@@ -7,10 +7,8 @@ nav_order: 1
 
 ## Get Object Resource Size as Bytes
 
-```markdown
 Get the size of the object/resource for use in memory tools or to display to artists/LDs in the Editor.
-This is the simple version which just returns the total number of bytes used by this object
-```
+This is the simple version which just returns the total number of bytes used by this object.
 
 <img src="https://cdn.discordapp.com/attachments/959186212046909551/959188568385921076/unknown.png" alt="Node" width="448"/>
 
