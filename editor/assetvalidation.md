@@ -1,7 +1,7 @@
 ---
 title: Asset Validation
 parent: Editor
-grand_parent: Documentation
+has_children: true
 nav_order: 1
 ---
 
