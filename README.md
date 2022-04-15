@@ -2,7 +2,7 @@
 
 Hideout Games Utilities - Unreal Engine Plugin
 
-Note: Docs might be slightly incomplete or outdated.
+**NOTE: DOCS NOT DONE, w.i.p.**
 
 View the [documentaion](https://utils.hideout.no/).
 
