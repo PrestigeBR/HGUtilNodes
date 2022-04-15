@@ -4,12 +4,10 @@
 
 void FCustomK2Module::StartupModule()
 {
-	// Put your module initialization code here
 }
 
 void FCustomK2Module::ShutdownModule()
 {
-	// Put your module termination code here
 }
 
 #undef LOCTEXT_NAMESPACE
