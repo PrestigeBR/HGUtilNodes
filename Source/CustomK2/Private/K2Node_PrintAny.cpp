@@ -60,12 +60,6 @@ void UK2Node_PrintAny::AllocateDefaultPins()
 	pToLog->bAdvancedView = true;
 	pToLog->DefaultValue = "true";
 
-	//Dis is fuckd
-	/**const auto textColor = CreatePin( EGPD_Input, UEdGraphSchema_K2::PC_Struct, "TextColor");
-	textColor->bAdvancedView = true;
-	textColor->PinType.StaticStruct() <- What do???
-	textColor->DefaultValue = "true";*/
-
 	const auto duration = CreatePin( EGPD_Input, UEdGraphSchema_K2::PC_Float, "Duration");
 	duration->bAdvancedView = true;
 	duration->DefaultValue = "2.0";
