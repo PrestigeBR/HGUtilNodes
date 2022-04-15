@@ -12,12 +12,12 @@ public class CustomK2 : ModuleRules
 			"Slate",
 			"Engine",
 			"AssetTools",
-			"UnrealEd", // for FAssetEditorManager
+			"UnrealEd",
 			"KismetWidgets",
 			"KismetCompiler",
 			"BlueprintGraph",
 			"GraphEditor",
-			"Kismet",  // for FWorkflowCentricApplication
+			"Kismet",
 			"PropertyEditor",
 			"EditorStyle",
 			"Slate",
